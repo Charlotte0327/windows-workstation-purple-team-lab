@@ -1,6 +1,3 @@
-# windows-workstation-purple-team-lab
-Hands-on Purple Team lab simulating Windows reconnaissance, attack, privilege escalation, detection, and remediation in an isolated environment.
-
 # Windows Workstation Purple Team Attack & Detection Lab
 
 A hands-on Purple Team lab simulating Windows reconnaissance, attack, privilege escalation, detection, and remediation in an isolated environment.
@@ -63,7 +60,7 @@ Supporting screenshots are located in the [`evidence`](evidence/) directory.
 
 ## Report
 
-The complete technical report is located in the [`lab-report`](Lab-Report/) directory.
+The complete technical report is located in the [`lab-report`](Lab-report/) directory.
 
 ## Disclaimer
 
